@@ -1,2 +1,2 @@
-# http://vonmaker.github.io
+# http://lucychan.github.io
 Site da Lucy
